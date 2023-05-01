@@ -1,0 +1,17 @@
+Technical Skills:
+
+Proficient in R programming language for machine learning
+Experience with popular machine learning frameworks such as caret and mlr
+Familiarity with data analysis and visualization tools such as dplyr and ggplot2
+Knowledge of linear algebra, calculus, and statistics
+Experience with deep learning architectures such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs)
+
+Experience with scikit-learn library for machine learning in Python
+Soft Skills:
+
+Communication: Strong written and verbal communication skills, ability to explain technical concepts 
+Scheduling: Experience with creating and managing group timelines and deadlines
+Time and project management: Ability to prioritize tasks effectively, meet deadlines.
+Analytical thinking: Strong problem-solving skills, ability to analyze data and identify trends
+Flexibility: Work effectively in a fast-paced environment
+Ability to work in a team or independently: Comfortable collaborating with team members and taking ownership of individual tasks.
