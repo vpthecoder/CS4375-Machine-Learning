@@ -2,7 +2,7 @@
  Contains assignments from CS 4375
 
 Technical skills/soft skills gainined in this class
-[here] (TechnicalSkills.txt)
+[here](TechnicalSkills.txt)
 
 ## Summary
 I am a highly skilled and enthusiastic machine learning practitioner with proficiency in both R and Python programming languages. My experience includes working with popular machine learning frameworks such as scikit-learn, caret, mlr, TensorFlow, and PyTorch. I am passionate about leveraging machine learning to solve complex problems and am excited about the potential for this technology to transform industries. In my free time, I plan to continue exploring personal machine learning projects and experimenting with the latest techniques and tools to stay up-to-date with this rapidly changing field. I am eager to collaborate with others in the industry and am open to exploring employment opportunities that allow me to apply my skills and further develop my expertise in machine learning. Some of my work is listed below.
